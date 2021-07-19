@@ -20,7 +20,6 @@ class admin(override var email: String, override var password: String):normUser(
         println("Adding users...")
     }
     fun sus(){
-        println("Suspending students..." +
-                "")
+        println("Suspending students...")
     }
 }
