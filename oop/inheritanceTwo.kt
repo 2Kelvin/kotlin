@@ -1,7 +1,7 @@
 package oop
 
 fun main(args: Array<String>) {
-    var trial1 = normUser("mei@gmail.com","klk9889")
+    var trial1 = normUser("may@gmail.com","may98309")
     trial1.login()
     trial1.accessPortal()
 }
